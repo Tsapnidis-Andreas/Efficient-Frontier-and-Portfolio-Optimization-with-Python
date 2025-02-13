@@ -24,7 +24,7 @@ Additionally, the time interval to be examined must be defined, i.e., the start 
 Once executed, the program performs the following steps:<br>
 
 Data Retrieval: Fetches monthly stock price data from Yahoo Finance for the specified time interval.<br>
-It then calculates the monthly returns and stores them in a data frame structure. This process is repeated for each stock.<br>
+It then calculates the monthly returns and stores them in a data frame. This process is repeated for each stock.<br>
 Average Monthly Return: Calculates the average monthly return for each stock.<br>
 Portfolio Simulation: Generates 20,000 random portfolios by assigning random weights to each stock. <br>
 It calculates the return, standard deviation, and Sharpe ratio for each portfolio.<br>
