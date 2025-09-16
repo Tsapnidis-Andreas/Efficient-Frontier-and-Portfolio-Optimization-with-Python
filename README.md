@@ -84,7 +84,6 @@ these stocks were excluded. The data covers monthly returns from October 2019 to
 
 ![Stock Returns](https://github.com/user-attachments/assets/c6da47a8-e18b-4909-9ce4-baf32b1e7e61)
 
-![Στιγμιότυπο οθόνης 2025-02-12 175350](https://github.com/user-attachments/assets/78c04ddd-0011-4e73-956a-cdb964bdf1f1)
 
 
 # Disclaimer
