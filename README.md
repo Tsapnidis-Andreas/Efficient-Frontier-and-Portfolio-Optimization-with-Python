@@ -45,11 +45,12 @@ The data covers monthly returns from January 2021 to December 2025 (60 observati
 
 ## Results:
 
-![Efficient Frontier](https://github.com/user-attachments/assets/1577c55d-d87c-40f6-8a85-909ed6531564)
+![Efficient Frontier](https://github.com/user-attachments/assets/14f6b169-b2a9-4ea3-a9c5-9c70163c9283)
 
-![Correlation Heatmap](https://github.com/user-attachments/assets/6aa4236c-71d9-45de-8634-a956098baeeb)
+![Correlation Heatmap](https://github.com/user-attachments/assets/26806930-c58a-4300-b3dd-d1dd1b827f10)
 
-![Cumulative Log Returns](https://github.com/user-attachments/assets/4da4cb29-e495-413d-81f2-a577eae4f059)
+![Cumulative Log Returns](https://github.com/user-attachments/assets/bd2c53d0-3410-4824-9035-a461eb71f421)
+
 
 # Disclaimer
 This project serves educational purposes only<br>
